@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package com.jotalab.DAO;
 
 import com.jotalab.modelo.Pedido;
@@ -13,10 +9,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 
-/**
- *
- * @author joaosantanna
- */
+
 public class DAOPedido {
 
     private Connection con;

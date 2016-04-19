@@ -6,10 +6,7 @@
 
 package com.jotalab.modelo;
 
-/**
- *
- * @author joaosantanna
- */
+
 public class Pedido {
     
     private int codigo;

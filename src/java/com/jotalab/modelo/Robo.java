@@ -4,10 +4,7 @@
  */
 package com.jotalab.modelo;
 
-/**
- *
- * @author joaosantanna
- */
+
 public class Robo {
 
     private long codigo;

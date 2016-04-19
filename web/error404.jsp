@@ -1,8 +1,4 @@
-<%-- 
-    Document   : error404
-    Created on : 18/07/2013, 14:45:14
-    Author     : joaosantanna
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

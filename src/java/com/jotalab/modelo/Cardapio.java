@@ -8,10 +8,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-/**
- *
- * @author joaosantanna
- */
+
 public class Cardapio {
 
     private List<Robo> cardapio;
