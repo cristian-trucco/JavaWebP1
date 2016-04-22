@@ -1,11 +1,11 @@
 
 
-package com.jotalab.controle;
+package com.javap1.controle;
 
-import com.jotalab.DAO.DAOPedido;
-import com.jotalab.modelo.CarrinhoDeCompras;
-import com.jotalab.modelo.ItemDoPedido;
-import com.jotalab.modelo.Pedido;
+import com.javap1.DAO.DAOPedido;
+import com.javap1.modelo.CarrinhoDeCompras;
+import com.javap1.modelo.ItemDoPedido;
+import com.javap1.modelo.Pedido;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;

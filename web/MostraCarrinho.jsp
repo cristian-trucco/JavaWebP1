@@ -2,12 +2,12 @@
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
-<%@ page import= "com.jotalab.modelo.*" %>
+<%@ page import= "com.javap1.modelo.*" %>
 <!DOCTYPE html>
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>AppWeb BrRobotics - Carrinho</title>
+        <title>Loja de Robôs! - Carrinho</title>
     </head>
     <body style="width: 750px">
         <jsp:include page="cabecalho.jspf"/>

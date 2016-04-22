@@ -7,8 +7,8 @@
 <!-- the Compile on Save feature is turned off for the project. -->
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
-<project name="BrRobotics" default="default" basedir=".">
-    <description>Builds, tests, and runs the project BrRobotics.</description>
+<project name="BrJavaP1" default="default" basedir=".">
+    <description>Builds, tests, and runs the project BrJavaP1.</description>
     <import file="nbproject/build-impl.xml"/>
     <!--
 

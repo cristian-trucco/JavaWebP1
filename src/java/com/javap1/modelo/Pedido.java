@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package com.jotalab.modelo;
+package com.javap1.modelo;
 
 
 public class Pedido {

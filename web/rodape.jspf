@@ -5,9 +5,11 @@
         <td>Trabalho Java Web P1</td>
     </tr>
     
+    
     <div "img-header">
         <img src="images/robos-rodape.png" border="0" alt="Banner" />
     </div>
+    
     <tr>
         <td><a href="http://localhost:8080/BrRobotics">http://torneiosderobos.com</a></td>
     </tr>

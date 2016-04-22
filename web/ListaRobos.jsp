@@ -2,20 +2,20 @@
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
-<%@ page import="com.jotalab.modelo.Robo" %>
+<%@ page import="com.javap1.modelo.*" %>
 <!DOCTYPE html>
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>AppWeb BrRobotics - Menu</title>
+        <title> Loja de Robôs!</title>
     </head>
     <body style="width: 750px">
 
         <jsp:include page="cabecalho.jspf"/>
 
-        <h1>BrRobotics - Venda kits roboticos</h1>
+        <h1> Skynet! - Escolha seu Robô</h1>
         <div>
-            <p>Bem vindo a BrRobotics lider regional em
+            <p>Bem vindo a Skynet lider  em
                 robotica.<br>
                 Escolha um dos nosso produtos abaixo.<br>
 
@@ -23,8 +23,8 @@
             </p>
 
         </div>
-        <h3 align="center">Nossos Robos - desenvolvidos com tecnologia nacional!!!</h3>
-        <jsp:useBean id= "CardapioBean" class= "com.jotalab.modelo.Cardapio" scope="session"/>
+        <h3 align="center">Nossos Robos - desenvolvidos com tecnologia de ponta!!!</h3>
+        <jsp:useBean id= "CardapioBean" class= "com.javap1.modelo.Cardapio" scope="session"/>
         <table border="1">
             <tr>
                 <th>Código</th>

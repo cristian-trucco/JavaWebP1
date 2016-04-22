@@ -1,7 +1,7 @@
 
-package com.jotalab.DAO;
+package com.javap1.DAO;
 
-import com.jotalab.modelo.Pedido;
+import com.javap1.modelo.Pedido;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
@@ -25,7 +25,7 @@ public class DAOPedido {
         try {
             Class.forName("org.apache.derby.jdbc.ClientDriver");
 
-            String url = "jdbc:derby://localhost:1527/BrRobotics";
+            String url = "jdbc:derby://localhost:1527/BrJavaP1";
             String user = "root";
             String pass = "root";
 

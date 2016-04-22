@@ -1,8 +1,8 @@
 
 
-package com.jotalab.controle;
+package com.javap1.controle;
 
-import com.jotalab.modelo.CarrinhoDeCompras;
+import com.javap1.modelo.CarrinhoDeCompras;
 import java.io.IOException;
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;

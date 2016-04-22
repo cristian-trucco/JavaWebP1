@@ -5,7 +5,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>AppWeb BrRobotics</title>
+        <title>Loja de Robôs!</title>
     </head>
     <body>
         <jsp:forward page="ListaRobos.jsp" />
